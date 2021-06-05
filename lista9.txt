@@ -1,0 +1,2 @@
+Lista 9 para teste e leitura de um arquivo em python. 
+Arquivo criado por: David
